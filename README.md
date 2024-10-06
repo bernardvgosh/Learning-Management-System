@@ -89,22 +89,8 @@ Determine the best pricing plan for your needs by following these steps:
 
 ## 🛠️ Other Features
 
-### Type of Futures
-- Multiple Content Types (Video Courses, Live Classes, Text Courses)
-- Public & Private Classes
-- Quiz & Certification
-- YouTube, Vimeo, and AWS Integration
-- Google Calendar Integration
-- Online 1-to-1 Meeting Booking
-- Organizational Education System
-- Built-In Accounting System
-- Attendance Tracking
-- Automated Enrollment (Based on User Data)
-
-### Customizable Features
-- Mobile Friendly
-- Customized for Every Aspect of the Organization
-- Geo-Friendly Server with High Data Security
+<img src="/Images/Features1">
+<img src="/Images/Features2">
 
 ---
 

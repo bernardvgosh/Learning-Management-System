@@ -1,5 +1,5 @@
 # 📚 Learning Management System (LMS)
-<img src="/Images/Main.jpeg">
+<img src="/Images/Main.png">
 
 ## 🌟 Features
 

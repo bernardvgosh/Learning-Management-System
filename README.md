@@ -89,8 +89,8 @@ Determine the best pricing plan for your needs by following these steps:
 
 ## 🛠️ Other Features
 
-<img src="/Images/Features1">
-<img src="/Images/Features2">
+<img src="/Images/Features1.png">
+<img src="/Images/Features2.png">
 
 ---
 

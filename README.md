@@ -69,7 +69,12 @@ Gather key insights into students’ education progress, including course comple
 
 ## 🔑 Why Omnichannel LMS?
 Our LMS can be used flexibly or governed by curriculum structure and academic plans, allowing for complete autonomy or a hybrid approach. It supports the reuse of course lists and content.
-<a href="https://youtu.be/hfYtG0QZ2O8">
+<video width="320" height="240" autoplay>
+  <source src="https://youtu.be/hfYtG0QZ2O8">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
 
 ---
 
